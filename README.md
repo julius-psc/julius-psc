@@ -1,12 +1,9 @@
-<h1 align="left">Julius Peschard</h1>
+<h1 align="center">Julius Peschard</h1>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 👋 About  
-Full-stack developer aspiring to transition into quantitative development.  
-Currently focused on refining backend skills in **Python**, **C**, and **Docker**.  
+<p align="center">
+  Full-stack developer aspiring to transition into quantitative development.<br/>
+  Currently focused on refining backend skills in <b>Python</b>, <b>C</b>, and <b>Docker</b>.
+</p>
 
 ---
 
@@ -16,32 +13,20 @@ Building **[Flowivate](https://flowivate.com)** — an AI-driven productivity da
 ---
 
 ### 🧠 Tech Stack  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,mongodb,docker,aws,python,tailwind,figma" />
 </p>
 
 ---
 
 ### 🌐 Connect  
-📧 [peschardjulius03@gmail.com](mailto:peschardjulius03@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/julius-peschard)  
-💼 [Portfolio](https://juliuspeschard.com)  
-📸 [Instagram](https://instagram.com/julius.prd)
+<p align="center">
+  📧 <a href="mailto:peschardjulius03@gmail.com">peschardjulius03@gmail.com</a><br/>
+  🔗 <a href="https://linkedin.com/in/julius-peschard">LinkedIn</a> &nbsp;|&nbsp;
+  💼 <a href="https://juliuspeschard.com">Portfolio</a> &nbsp;|&nbsp;
+  📸 <a href="https://instagram.com/julius.prd">@julius.prd</a>
+</p>
 
 ---
 
-*Building things that actually work (most of the time).*  
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-### 📊 GitHub Stats  
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius-psc&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-### 🧩 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julius-psc&layout=compact&theme=transparent&hide_border=true)
-
-</td>
-</tr>
-</table>
+<p align="center"><i>Building things that actually work (most of the time).</i></p>
