@@ -1,16 +1,31 @@
-## Hi there 👋
+# Julius Peschard
 
-<!--
-**julius-psc/julius-psc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer aspiring to transition into quantitative development.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **[Flowivate](https://flowivate.com)** — my latest project exploring productivity tools.
+
+Learning Python, C, and Docker to expand my backend capabilities.
+
+## Notable Work
+
+**[Chiens en Cavale](https://chiensencavale.com)** — my favorite project to date.
+
+More projects at **[juliuspeschard.com](https://juliuspeschard.com)**
+
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, Python  
+**Database:** PostgreSQL, MongoDB, MySQL  
+**Tools:** AWS, Docker, Figma
+
+## Connect
+
+📧 peschardjulius03@gmail.com  
+Instagram: [@julius.prd](https://instagram.com/julius.prd)
+
+---
+
+*Building things that actually work (most of the time).*
