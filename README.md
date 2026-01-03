@@ -24,7 +24,7 @@ Building **[Flowivate](https://flowivate.com)** — an AI-driven productivity da
   📧 <a href="mailto:peschardjulius03@gmail.com">peschardjulius03@gmail.com</a><br/>
   🔗 <a href="https://linkedin.com/in/julius-peschard">LinkedIn</a> &nbsp;|&nbsp;
   💼 <a href="https://juliuspeschard.com">Portfolio</a> &nbsp;|&nbsp;
-  📸 <a href="https://instagram.com/julius.prd">@julius.prd</a>
+  📸 <a href="https://instagram.com/julius.prd">@juliuspsc</a>
 </p>
 
 ---
